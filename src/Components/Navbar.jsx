@@ -24,9 +24,7 @@ const Navbar = () => {
                 <li className='cursor-pointer'>
                     <NavLink to={"/CaseStudiesPage"}>CaseStudies</NavLink>
                 </li>
-                {/* <li className='cursor-pointer'>
-                    <NavLink to={"/"}>Libraries</NavLink>
-                </li> */}
+              
             </ul>
                 
             <div className='md:mr-12 flex flex-col gap-y-3 justify-center items-center md:flex-row '>
